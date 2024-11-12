@@ -9,7 +9,7 @@ This script enables dynamic, detailed descriptions of the environment in samp ro
 ![img](https://i.imgur.com/K6uIinw.png) 
 
 ### Lib
-[imgui]( https://github.com/THE-FYP/mimgui/releases/download/v1.7.1/mimgui-v1.7.1.zip)
+[imgui](https://github.com/THE-FYP/mimgui/releases/download/v1.7.1/mimgui-v1.7.1.zip)
 
 ### Release
 [Download →](https://github.com/copcaress/LocalAction/releases/download/1.1/action.lua)
