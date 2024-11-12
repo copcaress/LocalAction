@@ -13,11 +13,3 @@ This script enables dynamic, detailed descriptions of the environment in samp ro
 
 ### Release
 [Download →](https://github.com/copcaress/LocalAction/releases/download/1.1/action.lua)
-
-
-
-
-
-
-
-
