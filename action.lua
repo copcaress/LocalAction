@@ -26,10 +26,7 @@ function main()
         wait(0)
         myX, myY, myZ = getCharCoordinates(PLAYER_PED)
 
-        if wasKeyPressed(key.VK_X) then
-            main_window_state.v = not main_window_state.v
-        end
-        imgui.Process = main_window_state.v
+        imgui.Process = main_window_state.v  -- окно будет активироваться только по команде
     end
 end
 
