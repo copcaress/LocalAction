@@ -11,5 +11,5 @@ This script enables dynamic, detailed descriptions of the environment in samp ro
 ### Lib
 [imgui →](https://github.com/THE-FYP/mimgui/releases/download/v1.7.1/mimgui-v1.7.1.zip)
 
-### Release
-[Download →](https://github.com/copcaress/LocalAction/releases/download/1.1/action.lua)
+### Download release
+[Download →](https://github.com/copcaress/LocalAction/releases/)
