@@ -9,7 +9,7 @@
 ![img](https://i.imgur.com/K6uIinw.png) 
 
 ### Lib
-[imgui →](https://github.com/THE-FYP/mimgui/releases/download/v1.7.1/mimgui-v1.7.1.zip)
+[imgui ↗](https://github.com/THE-FYP/mimgui/releases/download/v1.7.1/mimgui-v1.7.1.zip)
 
 ### Скачать последнюю версию
-[Скачать →](https://github.com/copcaress/LocalAction/releases/)
+[Скачать ↗](https://github.com/copcaress/LocalAction/releases/)
