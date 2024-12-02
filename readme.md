@@ -1,8 +1,8 @@
 ## LocalAction
 ![img](https://i.imgur.com/eUScSaR.png)
 
-### What is this?
-This script enables dynamic, detailed descriptions of the environment in samp roleplay, enhancing immersion for players. Perfect for creating rich, interactive atmospheres that adapt to the in-game setting
+### Что это?
+Этот скрипт позволяет создавать динамичные, подробные описания окружения для поддержания ролевой атмосферы в САМПП. Идеально подходит для создания богатой, интерактивной атмосферы, которая адаптируется к внутриигровой обстановке
 
 ![img](https://i.imgur.com/DmQHLHI.png) 
 ![img](https://i.imgur.com/K3vv27H.png) 
@@ -11,5 +11,5 @@ This script enables dynamic, detailed descriptions of the environment in samp ro
 ### Lib
 [imgui →](https://github.com/THE-FYP/mimgui/releases/download/v1.7.1/mimgui-v1.7.1.zip)
 
-### Download release
-[Download →](https://github.com/copcaress/LocalAction/releases/)
+### Скачать последнюю версию
+[Скачать →](https://github.com/copcaress/LocalAction/releases/)
